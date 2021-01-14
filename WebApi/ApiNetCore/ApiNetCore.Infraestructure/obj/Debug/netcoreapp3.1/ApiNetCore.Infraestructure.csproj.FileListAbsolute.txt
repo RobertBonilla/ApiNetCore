@@ -1,0 +1,12 @@
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\bin\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.deps.json
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\bin\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.dll
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\bin\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.pdb
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\bin\Debug\netcoreapp3.1\ApiNetCore.Domain.dll
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\bin\Debug\netcoreapp3.1\ApiNetCore.Domain.pdb
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\obj\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.csprojAssemblyReference.cache
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\obj\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\obj\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.AssemblyInfo.cs
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\obj\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\obj\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.csproj.CopyComplete
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\obj\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.dll
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Infraestructure\obj\Debug\netcoreapp3.1\ApiNetCore.Infraestructure.pdb

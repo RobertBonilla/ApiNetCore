@@ -1,0 +1,8 @@
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\bin\Debug\netcoreapp3.1\ApiNetCore.Domain.deps.json
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\bin\Debug\netcoreapp3.1\ApiNetCore.Domain.dll
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\bin\Debug\netcoreapp3.1\ApiNetCore.Domain.pdb
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\obj\Debug\netcoreapp3.1\ApiNetCore.Domain.AssemblyInfoInputs.cache
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\obj\Debug\netcoreapp3.1\ApiNetCore.Domain.AssemblyInfo.cs
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\obj\Debug\netcoreapp3.1\ApiNetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\obj\Debug\netcoreapp3.1\ApiNetCore.Domain.dll
+C:\Users\crobe\Documents\GIT\AFPTest\ApiNetCore\WebApi\ApiNetCore\ApiNetCore.Domain\obj\Debug\netcoreapp3.1\ApiNetCore.Domain.pdb
